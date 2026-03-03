@@ -1,0 +1,43 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #fff8f0;
+    color: #333;
+    text-align: center;
+}
+
+.hero {
+    background: #f2e6da;
+    padding: 60px 20px;
+}
+
+.hero h1 {
+    font-size: 42px;
+    color: #b85c38;
+}
+
+.menu {
+    padding: 40px 20px;
+}
+
+.contact {
+    background: #f2e6da;
+    padding: 40px 20px;
+}
+
+.buttons a {
+    display: inline-block;
+    margin: 10px;
+    padding: 12px 25px;
+    background: #b85c38;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+footer {
+    padding: 20px;
+    font-size: 14px;
+    color: #777;
+}
