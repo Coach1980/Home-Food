@@ -1,0 +1,69 @@
+body {
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+background: #fff8f0;
+color: #333;
+}
+
+header {
+text-align: center;
+padding: 60px 20px;
+background: #f2e6da;
+}
+
+h1 {
+font-family: 'Playfair Display', serif;
+font-size: 42px;
+color: #b85c38;
+}
+
+.slogan {
+font-size: 18px;
+margin-top: 10px;
+}
+
+.menu-section {
+max-width: 900px;
+margin: 40px auto;
+padding: 20px;
+background: white;
+border-radius: 15px;
+box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+.menu-section h2 {
+color: #b85c38;
+}
+
+.menu-section ul {
+list-style: none;
+padding: 0;
+}
+
+.menu-section li {
+padding: 8px 0;
+border-bottom: 1px solid #eee;
+}
+
+.contact {
+text-align: center;
+padding: 40px 20px;
+background: #f2e6da;
+}
+
+.buttons a {
+display: inline-block;
+margin: 10px;
+padding: 12px 25px;
+background: #b85c38;
+color: white;
+text-decoration: none;
+border-radius: 25px;
+}
+
+footer {
+text-align: center;
+padding: 20px;
+font-size: 14px;
+color: #777;
+}
